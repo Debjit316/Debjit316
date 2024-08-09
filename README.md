@@ -1,3 +1,11 @@
+<h4 align="left">Socials:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/debjit-mukhopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debjit_LinkedIn" height="24" width="32" /></a>
+<a href="https://leetcode.com/u/DM_1705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debjit_LeetCode" height="24" width="32" /></a>
+<a href="https://www.geeksforgeeks.org/user/debjit316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Debjit/profile" height="24" width="32" /></a>
+<a href="https://medium.com/@debjitmukhopadhyay316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Debjit/profile" height="24" width="32" /></a>
+
+</p>
 <h1 align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> Myself, Debjit Mukhopadhyay </h1>
 <div align="center">
 <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg4M2Y1azVyZzkyemdueXFoZmJnamJuZ3o3aGxhMW5tczV1OWc4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width=500 height=200 >
