@@ -21,10 +21,10 @@
 
 <h3 align="left">Reach me ...</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/debjit-mukhopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debjit_LinkedIn" height="24" width="32" /></a>
-<a href="https://leetcode.com/u/DebJ88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debjit_LeetCode" height="24" width="32" /></a>
-<a href="https://www.geeksforgeeks.org/user/debjit316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Debjit/profile" height="24" width="32" /></a>
-<a href="https://medium.com/@debjitmukhopadhyay316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Debjit/profile" height="24" width="32" /></a>
+<a href="https://www.linkedin.com/in/debjit-mukhopadhyay/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debjit_LinkedIn" height="24" width="32" /></a>
+<a href="https://leetcode.com/u/DebJ88/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debjit_LeetCode" height="24" width="32" /></a>
+<a href="https://www.geeksforgeeks.org/user/debjit316/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Debjit/profile" height="24" width="32" /></a>
+<a href="https://medium.com/@debjitmukhopadhyay316" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Debjit/profile" height="24" width="32" /></a>
 
 
 
