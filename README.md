@@ -7,20 +7,22 @@
 <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg4M2Y1azVyZzkyemdueXFoZmJnamJuZ3o3aGxhMW5tczV1OWc4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width=500 height=200 >
 </div>
 
+<h2>Learning Web Development</h2>
+
 <div >
-<h2> 👀 I’m interested in </h2>
+<h3> 👀 I’m interested in </h3>
 <ul>
-<li>Computer Science</li>
-<li>Automobile</li>
-<li>Defence Technology</li>
+<li>Computer Science🧑‍💻</li>
+<li>Automobile🏍️</li>
+<li>Defence Technology🛩️</li>
 </ul>
 </div>
 
-<h3> I’m currently learning Web Development</h3>
+
 <h3 align="left">Reach me ...</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/debjit-mukhopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debjit_LinkedIn" height="24" width="32" /></a>
-<a href="https://leetcode.com/u/DM_1705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debjit_LeetCode" height="24" width="32" /></a>
+<a href="https://leetcode.com/u/DebJ88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debjit_LeetCode" height="24" width="32" /></a>
 <a href="https://www.geeksforgeeks.org/user/debjit316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Debjit/profile" height="24" width="32" /></a>
 <a href="https://medium.com/@debjitmukhopadhyay316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Debjit/profile" height="24" width="32" /></a>
 
@@ -32,7 +34,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjit316&show_icons=true&locale=en&layout=compact" alt="arnab7070" /></p> -->
 </div>
 
-<div margin-left=10>
+<div margin-left=10 align="center">
 <p margin-left=10><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debjit316&amp;theme=highcontrast" alt="repos-per-language">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debjit316&amp;theme=highcontrast" alt="most-commit-language"></p>
 </div>
