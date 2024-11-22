@@ -2,7 +2,7 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 </p>
-<h1 align="center" font="semi-bold">Debjit Mukhopadhyay </h1>
+<h1 align="center" font="semi-bold"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Debjit Mukhopadhyay </h1>
 <div align="center">
 <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg4M2Y1azVyZzkyemdueXFoZmJnamJuZ3o3aGxhMW5tczV1OWc4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif" width=500 height=200 >
 </div>
