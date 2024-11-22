@@ -1,6 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e333911-e3ee-4171-be64-bd12e881db2e/deploy-status)](https://app.netlify.com/sites/dm-port-folio/deploys)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-![Visitor Count](https://profile-counter.glitch.me/{Debjit316}/count.svg)
 
 
 </p>
